@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sword_lifesteal-xd.aternos.me",
-    "port": 43539,
+    "ip": "thunderforge.mcsh.io",
+    "port": 25565,
     "version": "1.12.1",
     "try-creative": false
   },
