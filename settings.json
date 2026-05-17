@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thunderforge.mcsh.io",
-    "port": 25565,
+    "ip": "saksham1112.aternos.me",
+    "port": 45381,
     "version": "1.12.1",
     "try-creative": false
   },
