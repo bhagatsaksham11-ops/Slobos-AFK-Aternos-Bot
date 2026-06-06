@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pixelcrafting686.mcsh.io",
-    "port": 25565,
+    "ip": "z_smp.aternos.me",
+    "port": 37850,
     "version": "1.12.1",
     "try-creative": false
   },
