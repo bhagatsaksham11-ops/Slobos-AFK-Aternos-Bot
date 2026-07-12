@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "forever_smp-legend.aternos.me",
-    "port": 19961,
+    "ip": "z_smp.aternos.me",
+    "port": 37850,
     "version": "1.12.1",
     "try-creative": false
   },
